@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="/assets/banner.png" alt="Data Science Banner" width="100%" />
+  <img src="/assets/banner.png" alt="Data Science Banner" width="80%" />
 </p>
 
 # 👋 Hi, I'm Amaya
@@ -27,15 +27,14 @@ Currently transitioning into **Data Analytics & Data Science**, building a portf
 
 ## 👯 I’m looking to collaborate on
 - Data analysis projects  
-- Open-source tools for scientific computing  
-- Educational content connecting **physics** and **data science**
 
 ---
 
 ## 🤔 I’m looking for help with
+- Transitioning my scientific profile into industry data roles
 - Improving my machine learning pipeline  
 - Writing more efficient, cleaner code  
-- Transitioning my scientific profile into industry data roles
+
 
 ---
 
@@ -57,7 +56,7 @@ Currently transitioning into **Data Analytics & Data Science**, building a portf
 
 ## 😄 Pronouns
 She/Her  
-*(Modify if needed)*
+It doesn't mater 😄
 
 ---
 
