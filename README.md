@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="/assets/banner.png" alt="Data Science Banner" width="80%" />
+  <img src="./assets/blob/main/banner.png" alt="Data Science Banner" width="80%" />
 </p>
 
 # 👋 Hi, I'm Amaya
