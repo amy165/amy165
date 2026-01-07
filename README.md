@@ -3,34 +3,33 @@
   <img src="./assets/blob/main/banner.png" alt="Data Science Banner" width="80%" />
 </p>
 
-# 👋 Hi, I'm Amaya
+#  Hi, I'm Amaya
 
 PhD in Physical Sciences with 20+ years of analytical and data-driven research experience.  
 Currently transitioning into **Data Analytics & Data Science**, building a portfolio that combines my scientific background with modern data tools.
 
 ---
 
-## 🔭 I’m currently working on
+##  I’m currently working on
 - Developing my Data Analytics & Data Science portfolio  
 - Real-world projects using **Python, SQL, Power BI, and machine learning fundamentals**  
 - Showcasing end-to-end workflows: data cleaning → EDA → visualization → insights
 
 ---
 
-## 🌱 I’m currently learning
+##  I’m currently learning
 - Advanced data visualization  
 - Statistical modeling and predictive analytics  
-- AWS cloud fundamentals  
 - Best practices for storytelling with data  
 
 ---
 
-## 👯 I’m looking to collaborate on
+##  I’m looking to collaborate on
 - Data analysis projects  
 
 ---
 
-## 🤔 I’m looking for help with
+##  I’m looking for help with
 - Transitioning my scientific profile into industry data roles
 - Improving my machine learning pipeline  
 - Writing more efficient, cleaner code  
@@ -38,30 +37,9 @@ Currently transitioning into **Data Analytics & Data Science**, building a portf
 
 ---
 
-## 💬 Ask me about
-- Analytical thinking & scientific workflows  
-- Data cleaning and exploratory analysis  
-- Python for Data Science  
-- SQL queries & database logic  
-- Career transition from academia to data  
-
----
-
 ## 📫 How to reach me
-- Email: **your@email.com**
-- LinkedIn: **https://www.linkedin.com/in/yourprofile/**
-- GitHub: You're already here! 😊
+- LinkedIn: **https://www.linkedin.com/in/amaya-o-casanova-díaz-a03660100**
 
----
-
-## 😄 Pronouns
-She/Her  
-It doesn't mater 😄
-
----
-
-## ⚡ Fun fact
-I love the beach, spending time with my friends and children, and discovering how data can describe everything—from particle collisions to everyday life.
 
 ---
 
