@@ -1,7 +1,4 @@
-<!-- Banner -->
-<p align="center">
-  <img src="./assets/blob/main/banner.png" alt="Data Science Banner" width="80%" />
-</p>
+![Data Science Banner](https://github.com/amy165/assets/raw/main/banner.png)
 
 #  Hi, I'm Amaya
 
@@ -43,34 +40,37 @@ Currently transitioning into **Data Analytics & Data Science**, building a portf
 
 ---
 
-## 🛠️ Technologies & Tools
+##  Technologies & Tools
 <p align="center">
-  <img src="/assets/python.png" width="70">
-  <img src="/assets/pandas.png" width="70">
-  <img src="/assets/numpy.png" width="70">
-  <img src="/assets/matplotlib.png" width="70">
-  <img src="/assets/seaborn.png" width="70">
-  <img src="/assets/sklearn.png" width="70">
-  <img src="/assets/sql.png" width="70">
-  <img src="/assets/powerbi.png" width="70">
-  <img src="/assets/excel.png" width="70">
-  <img src="/assets/tableau.png" width="70">
-  <img src="/assets/jupyter.png" width="70">
-  <img src="/assets/vscode.png" width="70">
-  <img src="/assets/github.png" width="70">
-  <img src="/assets/aws.png" width="70">
+
+  <!-- Lenguajes y librerías -->
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Matplotlib-0C4B8E?style=for-the-badge&logo=plotly&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&logo=plotly&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
+
+  <!-- Bases de datos / SQL -->
+  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
+
+  <!-- BI / Herramientas -->
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
+
+  <!-- Entornos -->
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+
+  <!-- Control de versiones / Cloud -->
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
+
 </p>
+
 
 ---
 
-## 🔬 Scientific Background (Small Icons)
-<p align="center">
-  <img src="/assets/cern.png" width="60">
-  <img src="/assets/alice.png" width="60">
-  <img src="/assets/physics.png" width="60">
-</p>
-
----
-
-### ⭐ Thanks for visiting my profile!
+###  Thanks for visiting my profile!
 Feel free to explore my repositories or reach out!
