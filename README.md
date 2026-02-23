@@ -35,7 +35,7 @@ Currently transitioning into **Data Analytics & Data Science**, building a portf
 ---
 
 ##  How to reach me
-- LinkedIn: **https://www.linkedin.com/in/amaya-o-casanova-díaz-a03660100**
+- LinkedIn: **https://www.linkedin.com/in/amaya-o-casanova-díaz**
 
 
 ---
