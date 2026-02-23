@@ -74,3 +74,8 @@ Currently transitioning into **Data Analytics & Data Science**, building a portf
 
 ###  Thanks for visiting my profile!
 Feel free to explore my repositories or reach out!
+
+## 📂 Mis Repositorios Destacados
+
+[![Readme Card([![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=TU-USUARIO&repo=NOMBRE-REPO)](https://github.com/TU-USUARIO/NOMBRE-REPO))](https://github.com/amy165/procurement-analytics-dashboard_Tableau)
+
