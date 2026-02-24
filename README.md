@@ -59,11 +59,11 @@ Exploratory data analysis focused on global life expectancy trends, correlations
 
 <td width="40%">
 
-<img src="https://raw.githubusercontent.com/amy165/amy165/main/images/life-expectancy/LifeExpectancyvsSchooling.png" width="100%"/>
+<img src="https://raw.githubusercontent.com/amy165/images/main/life-expectancy/LifeExpectancyvsSchooling.png" width="100%"/>
 
 <br><br>
 
-<img src="https://raw.githubusercontent.com/amy165/amy165/main/images/life-expectancy/PredictionvsRealData.png" width="100%"/>
+<img src="https://raw.githubusercontent.com/amy165/images/main/life-expectancy/PredictionvsRealData.png" width="100%"/>
 
 </td>
 </tr>
