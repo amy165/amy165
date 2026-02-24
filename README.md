@@ -1,3 +1,19 @@
+![Data Science Banner](https://github.com/amy165/assets/raw/main/banner.png)
+
+#  Hi, I'm Amaya
+
+PhD in Physical Sciences with 20+ years of analytical and data-driven research experience.  
+Currently transitioning into **Data Analytics & Data Science**, building a portfolio that combines my scientific background with modern data tools.
+
+---
+
+##  I’m currently working on
+- Developing my Data Analytics & Data Science portfolio  
+- Real-world projects using **Python, SQL, Power BI, and machine learning fundamentals**  
+- Showcasing end-to-end workflows: data cleaning → EDA → visualization → insights
+
+---
+
 🚀 FEATURED PROJECTS (cards visuales)
 
 ## 📊 Procurement Analytics
