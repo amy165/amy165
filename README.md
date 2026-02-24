@@ -1,91 +1,39 @@
-<p align="center">
-  <img src="./images/banners/banner-main.png" width="100%"/>
-</p>
+🚀 FEATURED PROJECTS (cards visuales)
+📊 Procurement Analytics
+<table> <tr> <td width="60%">
+📊 Procurement Analytics
 
-# 👋 Hi, I'm Amy
+Business-focused analysis exploring procurement data, pricing trends and decision insights.
 
-🎯 Data Analytics & Data Science Enthusiast  
-📊 Building dashboards and transforming data into insights  
-🐍 Learning Python, Analytics & Business Intelligence
+Tools: Python · Pandas · Analytics · Visualization
 
----
+🔗 View Repository
 
-# 🚀 Featured Projects
+</td> <td width="40%"> <img src="./images/procurement/General.jpg" width="100%"/> </td> </tr> </table> <p align="center"> <img src="./images/procurement/precios.jpg" width="80%"> </p>
+📈 Power BI Dashboard
+<table> <tr> <td width="60%">
+📈 Power BI Dashboard
 
----
+Interactive dashboard designed for business insights and KPI storytelling.
 
-## 📊 Procurement Analytics
+Tools: Power BI · Dashboard Design · Data Storytelling
 
-<p align="center">
-  <img src="./images/procurement/dashboard1.png" width="800"/>
-</p>
+🔗 View Repository
 
-<p align="center">
-  <img src="./images/procurement/dashboard2.png" width="800"/>
-</p>
+</td> <td width="40%"> <img src="./images/tree/main/powerbi/powerbi.jpg" width="100%"/> </td> </tr> </table>
 
-Business procurement analysis focused on identifying patterns and improving decision-making.
-
-🔗 [View Repository](https://github.com/amy165/procurement-analytics)
-
-**Tools:** Python · Pandas · Data Analysis · Visualization
-
----
-
-## 🌍 Life Expectancy Analysis
 
 <p align="center">
-  <img src="./images/life-expectancy/life1.png" width="800"/>
+  <img src="./images/life-expectancy/life1.jpg" width="80%">
 </p>
 
 <p align="center">
-  <img src="./images/life-expectancy/life2.png" width="800"/>
+  <img src="./images/life-expectancy/life2.jpg" width="80%">
 </p>
 
-Exploratory analysis of global life expectancy data to identify trends and correlations.
 
-🔗 [View Repository](https://github.com/amy165/life-expectancy)
+## 🧮 SQL Practice
 
-**Tools:** Python · EDA · Visualization
+Collection of SQL exercises and query practice focused on analytics and data extraction.
 
----
-
-## 📈 Power BI Dashboard
-
-<p align="center">
-  <img src="./images/powerbi/powerbi1.png" width="800"/>
-</p>
-
-<p align="center">
-  <img src="./images/powerbi/powerbi2.png" width="800"/>
-</p>
-
-Interactive dashboard created for business storytelling and KPI analysis.
-
-🔗 [View Repository](https://github.com/amy165/powerbidashboard)
-
-**Tools:** Power BI · Dashboard Design · Analytics
-
----
-
-# 🧰 Tech Stack
-
-🐍 Python  
-📊 Pandas  
-📈 Power BI  
-📉 Data Visualization  
-💻 Git & GitHub  
-🧮 Excel
-
----
-
-# 📚 Currently Learning
-
-- Data Science Projects
-- Python for Data Analysis
-- Business Analytics
-- Real-world dashboard design
-
----
-
-⭐ Always learning and building with data
+🔗 [View SQL Repository]([https://github.com/amy165/leetcode-sql-practice]
