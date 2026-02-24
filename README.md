@@ -9,9 +9,10 @@ Tools: Python · Pandas · Analytics · Visualization
 
 🔗 View Repository
 
-</td> <td width="40%"> <img src="./images/procurement/General.jpg" width="100%"/> </td> </tr> </table> <p align="center"> <img src="./images/procurement/precios.jpg" width="80%"> </p>
+</td> <td width="40%"> <img src="https://raw.githubusercontent.com/amy165/images/main/procurement/General.jpg" width="100%"/> </td> </tr> </table> <p align="center"><img src="https://raw.githubusercontent.com/amy165/images/main/procurement/precios.jpg" width="40%"> </p>
+
 📈 Power BI Dashboard
-<table> <tr> <td width="60%">
+<table> <tr> <td width="50%">
 📈 Power BI Dashboard
 
 Interactive dashboard designed for business insights and KPI storytelling.
@@ -20,7 +21,7 @@ Tools: Power BI · Dashboard Design · Data Storytelling
 
 🔗 View Repository
 
-</td> <td width="40%"> <img src="./images/tree/main/powerbi/powerbi.jpg" width="100%"/> </td> </tr> </table>
+</td> <td width="40%"> <img src="https://raw.githubusercontent.com/amy165/images/main/powerbi/powerbi.jpg" width="100%"/> </td> </tr> </table>
 
 
 <p align="center">
@@ -36,4 +37,4 @@ Tools: Power BI · Dashboard Design · Data Storytelling
 
 Collection of SQL exercises and query practice focused on analytics and data extraction.
 
-🔗 [View SQL Repository]([https://github.com/amy165/leetcode-sql-practice]
+🔗 [View SQL Repository](https://github.com/amy165/leetcode-sql-practice)
