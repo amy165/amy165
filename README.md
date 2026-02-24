@@ -1,17 +1,33 @@
 🚀 FEATURED PROJECTS (cards visuales)
-📊 Procurement Analytics
-<table> <tr> <td width="60%">
-📊 Procurement Analytics
+
+## 📊 Procurement Analytics
+
+<table>
+<tr>
+<td width="60%">
+
+### 📊 Procurement Analytics
 
 Business-focused analysis exploring procurement data, pricing trends and decision insights.
 
-Tools: Python · Pandas · Analytics · Visualization
+**Tools:** Python · Pandas · Analytics · Visualization  
 
-🔗 View Repository
+🔗 [View Repository](https://github.com/amy165/procurement-analytics)
 
-</td> <td width="40%"> <img src="https://raw.githubusercontent.com/amy165/images/main/procurement/General.jpg" width="100%"/> </td> </tr> </table> <p align="center"><img src="https://raw.githubusercontent.com/amy165/images/main/procurement/precios.jpg" width="40%"> </p>
+</td>
 
-📈 Power BI Dashboard
+<td width="40%">
+
+<img src="https://raw.githubusercontent.com/amy165/images/main/procurement/General.jpg" width="100%"/>
+
+<br><br>
+
+<img src="https://raw.githubusercontent.com/amy165/images/main/procurement/precios.jpg" width="100%"/>
+
+</td>
+
+</tr>
+</table>
 <table> <tr> <td width="50%">
 📈 Power BI Dashboard
 
