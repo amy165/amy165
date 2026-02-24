@@ -10,7 +10,7 @@
 
 Business-focused analysis exploring procurement data, pricing trends and decision insights.
 
-**Tools:** Python · Pandas · Analytics · Visualization  
+**Tools:** Tableau · Excel · Data Story Telling  
 
 🔗 [View Repository](https://github.com/amy165/procurement-analytics)
 
@@ -35,7 +35,7 @@ Interactive dashboard designed for business insights and KPI storytelling.
 
 Tools: Power BI · Dashboard Design · Data Storytelling
 
-🔗 View Repository
+🔗 [View Repository](https://github.com/amy165/PowerBI_Dashboard)
 
 </td> <td width="40%"> <img src="https://raw.githubusercontent.com/amy165/images/main/powerbi/powerbi.jpg" width="100%"/> </td> </tr> </table>
 
