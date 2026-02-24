@@ -51,7 +51,7 @@ Tools: Power BI · Dashboard Design · Data Storytelling
 
 Exploratory data analysis focused on global life expectancy trends, correlations and insights.
 
-**Tools:** Python · Pandas · EDA · Data Visualization  
+**Tools:** Python · Pandas · EDA · Scikit-learn · Regression Modeling · Data Visualization  
 
 🔗 [View Repository](https://github.com/amy165/Life_Expectancy)
 
