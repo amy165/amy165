@@ -29,6 +29,7 @@ Business-focused analysis exploring procurement data, pricing trends and decisio
 </tr>
 </table>
 <table> <tr> <td width="50%">
+  
 📈 Power BI Dashboard
 
 Interactive dashboard designed for business insights and KPI storytelling.
@@ -40,13 +41,33 @@ Tools: Power BI · Dashboard Design · Data Storytelling
 </td> <td width="40%"> <img src="https://raw.githubusercontent.com/amy165/images/main/powerbi/powerbi.jpg" width="100%"/> </td> </tr> </table>
 
 
-<p align="center">
-  <img src="./images/life-expectancy/life1.jpg" width="80%">
-</p>
+## 🌍 Life Expectancy Analysis
 
-<p align="center">
-  <img src="./images/life-expectancy/life2.jpg" width="80%">
-</p>
+<table>
+<tr>
+<td width="60%">
+
+### 🌍 Life Expectancy Analysis
+
+Exploratory data analysis focused on global life expectancy trends, correlations and insights.
+
+**Tools:** Python · Pandas · EDA · Data Visualization  
+
+🔗 [View Repository](https://github.com/amy165/Life_Expectancy)
+
+</td>
+
+<td width="40%">
+
+<img src="https://raw.githubusercontent.com/amy165/amy165/main/images/life-expectancy/LifeExpectancyvsSchooling.png" width="100%"/>
+
+<br><br>
+
+<img src="https://raw.githubusercontent.com/amy165/amy165/main/images/life-expectancy/PredictionvsRealData.png" width="100%"/>
+
+</td>
+</tr>
+</table>
 
 
 ## 🧮 SQL Practice
