@@ -9,11 +9,10 @@ Currently transitioning into **Data Analytics & Data Science**, building a portf
 
 ## 📌 Quick Navigation
 
-- [🧰 Technologies & Tools](#-technologies--tools)
-- [📚 Currently Learning](#-im-currently-learning)
-- [🚀 Featured Projects](#-featured-projects)
-- [📫 Contact](#-how-to-reach-me)
-
+- [🧰 Technologies & Tools](#technologies--tools)
+- [📚 Currently Learning](#im-currently-learning)
+- [🚀 Featured Projects](#featured-projects)
+- [📫 Contact](#how-to-reach-me)
 ---
 
 ## 🚀 I’m currently working on
@@ -24,7 +23,7 @@ Currently transitioning into **Data Analytics & Data Science**, building a portf
 
 ---
 
-## 📚 I’m currently learning
+## I’m currently learning
 
 - Advanced data visualization  
 - Statistical modeling and predictive analytics  
@@ -46,13 +45,13 @@ Currently transitioning into **Data Analytics & Data Science**, building a portf
 
 ---
 
-## 📫 How to reach me
+## How to reach me
 
 - LinkedIn: **https://www.linkedin.com/in/amaya-o-casanova-díaz**
 
 ---
 
-## 🧰 Technologies & Tools
+## Technologies & Tools
 
 <p align="center">
 
@@ -79,7 +78,7 @@ Currently transitioning into **Data Analytics & Data Science**, building a portf
 
 ---
 
-# 🚀 Featured Projects
+# Featured Projects
 
 ## 📊 Procurement Analytics
 
