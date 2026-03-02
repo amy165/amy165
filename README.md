@@ -3,7 +3,7 @@
 # 👋 Hi, I'm Amaya
 
 PhD in Physical Sciences with 20+ years of analytical and data-driven research experience.  
-Currently transitioning into **Data Analytics & Data Science**, building a portfolio that combines my scientific background with modern data tools.
+Currently transitioning into **Data Analytics & Business Intelligence**, combining scientific rigor with data storytelling and financial analysis.
 
 ---
 
@@ -13,80 +13,108 @@ Currently transitioning into **Data Analytics & Data Science**, building a portf
 - [📚 Currently Learning](#im-currently-learning)
 - [🚀 Featured Projects](#featured-projects)
 - [📫 Contact](#how-to-reach-me)
+
 ---
 
 ## 🚀 I’m currently working on
 
-- Developing my Data Analytics & Data Science portfolio  
-- Real-world projects using **Python, SQL, Power BI, and machine learning fundamentals**  
-- End-to-end workflows: data cleaning → EDA → visualization → insights
+- Building real-world Data Analytics & BI portfolio projects  
+- Business-focused dashboards using **Power BI, SQL and Python**
+- End-to-end workflows: data modeling → analysis → visualization → insights
 
 ---
 
-## I’m currently learning
+## 📚 I’m currently learning
 
-- Advanced data visualization  
-- Statistical modeling and predictive analytics  
-- Best practices for storytelling with data  
+- Advanced data visualization & dashboard design
+- Financial & business analytics
+- Data storytelling best practices
 
 ---
 
 ## 🤝 I’m looking to collaborate on
 
-- Data analysis projects  
+- Data analysis & BI projects
 
 ---
 
-## 🧭 I’m looking for help with
-
-- Transitioning my scientific profile into industry data roles  
-- Improving my machine learning pipeline  
-- Writing cleaner and more efficient code  
-
----
-
-## How to reach me
+## 📫 How to reach me
 
 - LinkedIn: **https://www.linkedin.com/in/amaya-o-casanova-díaz**
 
 ---
 
-## Technologies & Tools
+## 🧰 Technologies & Tools
 
 <p align="center">
 
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
 <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-<img src="https://img.shields.io/badge/Matplotlib-0C4B8E?style=for-the-badge&logo=plotly&logoColor=white"/>
-<img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&logo=plotly&logoColor=white"/>
 <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
-
 <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
-
 <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
 <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
 <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
-<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
-
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
 
 </p>
 
 ---
 
-# Featured Projects
+# 🚀 Featured Projects
+
+---
+
+## 🏢 Financial Analysis & Treasury Dashboard (Power BI)
+
+<table>
+<tr>
+<td width="60%">
+
+### 🏢 Real Estate Financial Analytics
+
+End-to-end treasury and risk analysis simulating a real-estate company.
+
+Focus areas:
+
+- Cash flow monitoring
+- Tenant payment risk analysis
+- Expense structure diagnostics
+- Financial sustainability KPIs
+
+Key insights uncovered:
+
+- OPEX exceeds revenue (127%)
+- Negative operating margin
+- High tenant payment risk concentration
+- Salaries represent the largest cost driver
+
+**Tools:** Power BI · DAX · Data Modeling · Financial Analytics · Business Storytelling  
+
+🔗 [View Repository]([YOUR_NEW_REPO_LINK](https://github.com/amy165/Financial-Analysis-Treasury-Dashboard-Real-Estate-Case-Study-))
+
+</td>
+
+<td width="40%">
+
+<img src="https://raw.githubusercontent.com/amy165/images/main/RealEstateAnalysis/overview.jpg" width="100%"/>
+
+<br><br>
+
+<img src="https://raw.githubusercontent.com/amy165/images/main/RealEstateAnalysis/TenantRisk.jpg" width="100%"/>
+
+</td>
+</tr>
+</table>
+
+---
 
 ## 📊 Procurement Analytics
 
 <table>
 <tr>
 <td width="60%">
-
-### 📊 Procurement Analytics
 
 Business-focused analysis exploring procurement data, pricing trends and decision insights.
 
@@ -116,8 +144,6 @@ Business-focused analysis exploring procurement data, pricing trends and decisio
 <tr>
 <td width="60%">
 
-### 📈 Power BI Dashboard
-
 Interactive dashboard designed for business insights and KPI storytelling.
 
 **Tools:** Power BI · Dashboard Design · Data Storytelling  
@@ -142,11 +168,9 @@ Interactive dashboard designed for business insights and KPI storytelling.
 <tr>
 <td width="60%">
 
-### 🌍 Life Expectancy Analysis
+Exploratory data analysis focused on global life expectancy trends and modeling.
 
-Exploratory data analysis focused on global life expectancy trends, correlations and insights.
-
-**Tools:** Python · Pandas · EDA · Scikit-learn · Regression Modeling · Data Visualization  
+**Tools:** Python · Pandas · EDA · Scikit-learn · Regression Modeling  
 
 🔗 [View Repository](https://github.com/amy165/Life_Expectancy)
 
@@ -168,11 +192,11 @@ Exploratory data analysis focused on global life expectancy trends, correlations
 
 ## 🧮 SQL Practice
 
-Collection of SQL exercises and query practice focused on analytics and data extraction.
+Collection of SQL exercises focused on analytics and data extraction.
 
 🔗 [View SQL Repository](https://github.com/amy165/leetcode-sql-practice)
 
 ---
 
 ### ⭐ Thanks for visiting my profile!
-Feel free to explore my repositories or reach out.
+Feel free to explore my repositories or connect with me.
