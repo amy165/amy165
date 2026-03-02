@@ -92,7 +92,7 @@ Key insights uncovered:
 
 **Tools:** Power BI · DAX · Data Modeling · Financial Analytics · Business Storytelling  
 
-🔗 [View Repository]([YOUR_NEW_REPO_LINK](https://github.com/amy165/Financial-Analysis-Treasury-Dashboard-Real-Estate-Case-Study-)
+🔗 [View Repository](https://github.com/amy165/Financial-Analysis-Treasury-Dashboard-Real-Estate-Case-Study-)
 
 </td>
 
