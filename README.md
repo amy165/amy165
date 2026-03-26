@@ -72,7 +72,7 @@ Currently transitioning into **Data Analytics & Business Intelligence**, combini
 <tr>
 <td width="60%">
 
-### 🏢 Real Estate Financial Analytics
+### 🏢 E-commerce Analytics
 
 End-to-end Business Intelligence project analyzing a Brazilian e-commerce dataset using Power BI, with a strong focus on data validation, anomaly detection, and business insights.
 
@@ -90,11 +90,11 @@ Key insights uncovered:
 
 <td width="40%">
 
-<img src="https://raw.githubusercontent.com/amy165/images/main/RealEstateAnalysis/overview.jpg" width="100%"/>
+<img src="https://raw.githubusercontent.com/amy165/images/main/Brazilian-E-Commerce/Overview.jpg" width="100%"/>
 
 <br><br>
 
-<img src="https://raw.githubusercontent.com/amy165/images/main/RealEstateAnalysis/TenantRisk.jpg" width="100%"/>
+<img src="https://raw.githubusercontent.com/amy165/images/main/Brazilian-E-Commerce/Customer.jpg" width="100%"/>
 
 </td>
 </tr>
