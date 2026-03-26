@@ -105,8 +105,6 @@ Key insights uncovered:
 </table>
 
 ---
-fin
----
 
 ## 🏢 Financial Analysis & Treasury Dashboard (Power BI)
 
