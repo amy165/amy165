@@ -96,6 +96,10 @@ Key insights uncovered:
 
 <img src="https://raw.githubusercontent.com/amy165/images/main/Brazilian-E-Commerce/Customer.jpg" width="100%"/>
 
+<br><br>
+
+<img src="https://raw.githubusercontent.com/amy165/images/main/Brazilian-E-Commerce/Financial.jpg" width="100%"/>
+
 </td>
 </tr>
 </table>
