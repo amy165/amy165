@@ -66,6 +66,44 @@ Currently transitioning into **Data Analytics & Business Intelligence**, combini
 
 ---
 
+## 🏢 E-commerce Analytics – Power BI Project
+
+<table>
+<tr>
+<td width="60%">
+
+### 🏢 Real Estate Financial Analytics
+
+End-to-end Business Intelligence project analyzing a Brazilian e-commerce dataset using Power BI, with a strong focus on data validation, anomaly detection, and business insights.
+
+Key insights uncovered:
+
+- Several Data inconsistencies were found
+- Identified $162K in payments without linked orders
+- Built 5 analytical dashboards covering performance, customers, sellers, and finance
+
+**Tools:** Power BI · DAX · Data Modeling · Financial Analytics · Business Storytelling  
+
+🔗 [View Repository](https://github.com/amy165/Brazilian-E-Commerce-Public-Dataset-by-Olist/tree/main)
+
+</td>
+
+<td width="40%">
+
+<img src="https://raw.githubusercontent.com/amy165/images/main/RealEstateAnalysis/overview.jpg" width="100%"/>
+
+<br><br>
+
+<img src="https://raw.githubusercontent.com/amy165/images/main/RealEstateAnalysis/TenantRisk.jpg" width="100%"/>
+
+</td>
+</tr>
+</table>
+
+---
+fin
+---
+
 ## 🏢 Financial Analysis & Treasury Dashboard (Power BI)
 
 <table>
