@@ -1,3 +1,5 @@
+![Data Science Banner](https://github.com/amy165/assets/raw/main/banner.png)
+
 # 👋 Hi, I'm Amaya
 
 **PhD in Physical Sciences** with 20+ years of analytical research experience.  
