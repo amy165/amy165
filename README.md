@@ -40,11 +40,15 @@ This project was later extended into a data science analysis, applying customer 
 
 🔗 **[View Repository →](https://github.com/amy165/Brazilian-E-Commerce-Public-Dataset-by-Olist/tree/main)**
 
+**Power BI dashboards + Data Science extension**
+
 <p align="center">
-  <img src="https://raw.githubusercontent.com/amy165/images/main/Brazilian-E-Commerce/Overview.jpg" width="30%"/>
-  <img src="https://raw.githubusercontent.com/amy165/images/main/Brazilian-E-Commerce/Customer.jpg" width="30%"/>
-  <img src="https://raw.githubusercontent.com/amy165/images/main/Brazilian-E-Commerce/Financial.jpg" width="30%"/>
-  <img src="https://raw.githubusercontent.com/amy165/images/main/Brazilian-E-Commerce/CustomerSegmentationAutoencoderKMeans.png" width="60%"/>
+  <img src="https://raw.githubusercontent.com/amy165/images/main/Brazilian-E-Commerce/Overview.jpg" width="45%"style="vertical-align: top;margin: 5px;"/>
+  <img src="https://raw.githubusercontent.com/amy165/images/main/Brazilian-E-Commerce/Customer.jpg" width="45%"style="vertical-align: top;margin: 5px;"/>
+</p>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/amy165/images/main/Brazilian-E-Commerce/Financial.jpg" width="45%"style="vertical-align: top;margin: 5px;"/>
+  <img src="https://raw.githubusercontent.com/amy165/images/main/Brazilian-E-Commerce/CustomerSegmentationAutoencoderKMeans.png" width="35%"style="vertical-align: top;margin: 5px;"/>
 </p>
 
 ---
