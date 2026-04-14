@@ -3,9 +3,9 @@
 # 👋 Hi, I'm Amaya
 
 **PhD in Physical Sciences** with 20+ years of analytical research experience.  
-Currently transitioning into **Data Analytics & Business Intelligence**, combining scientific rigor with data storytelling and financial analysis.
+Currently transitioning into **Data Analytics, Business Intelligence, and Data Science**, combining scientific rigor with data storytelling and machine learning techniques.
 
-My goal: transform complex data into clear, actionable business decisions.
+My goal: transform complex data into clear, actionable business decisions using analytics, BI, and machine learning.
 
 ---
 
@@ -18,11 +18,14 @@ My goal: transform complex data into clear, actionable business decisions.
   <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
   <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
 </p>
 
 - **Languages & Analysis:** Python (Pandas, NumPy, Scikit-learn), SQL
 - **Visualization & BI:** Power BI, Tableau, Excel
 - **Methodologies:** Data Modeling (Star Schema), Data Cleaning & Validation, Data Storytelling
+- **Machine Learning:** Scikit-learn (Clustering, PCA), KMeans  
+- **Deep Learning:** TensorFlow / Keras (Autoencoders)
 
 ---
 
@@ -33,12 +36,15 @@ My goal: transform complex data into clear, actionable business decisions.
 ### 🛒 E-commerce Analytics (Power BI)
 *End-to-end analysis of a Brazilian e-commerce dataset. Focus on data validation, anomaly detection ($162K in payments without orders), and building 5 interactive dashboards covering key business domains.*
 
+This project was later extended into a data science analysis, applying customer segmentation using both KMeans and Autoencoders.
+
 🔗 **[View Repository →](https://github.com/amy165/Brazilian-E-Commerce-Public-Dataset-by-Olist/tree/main)**
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/amy165/images/main/Brazilian-E-Commerce/Overview.jpg" width="30%"/>
   <img src="https://raw.githubusercontent.com/amy165/images/main/Brazilian-E-Commerce/Customer.jpg" width="30%"/>
   <img src="https://raw.githubusercontent.com/amy165/images/main/Brazilian-E-Commerce/Financial.jpg" width="30%"/>
+  <img src="https://raw.githubusercontent.com/amy165/images/main/Brazilian-E-Commerce/CustomerSegmentationAutoencoderKMeans.png" width="60%"/>
 </p>
 
 ---
