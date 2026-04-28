@@ -33,6 +33,26 @@ My goal: transform complex data into clear, actionable business decisions using 
 
 > *Each project simulates a real-world business scenario, from data extraction and modeling to generating actionable insights.*
 
+### 🚗 Insurance Risk & Pricing Analysis (Power BI + Machine Learning)
+*End-to-end analysis of a vehicle insurance portfolio, combining business performance evaluation, pricing diagnostics, and claim risk modeling.*
+
+- Identified **systematic underpricing**, with premium growth not scaling proportionally to exposure  
+- Detected performance improvement after 2015 driven by **reduced claims paid**, while frequency remained stable  
+- Suggested potential impact of **improved claims validation or fraud reduction processes**  
+- Built predictive models (Logistic Regression, Random Forest, XGBoost) to estimate claim probability  
+- Final model: XGBoost (ROC-AUC ~0.76, PR-AUC ~0.19), prioritizing recall for risk detection  
+
+🔗 **[View Repository →](https://github.com/amy165/Insurance-Risk-Pricing-Analysis-End-to-End-Project/tree/main)**
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/amy165/Insurance-Risk-Pricing-Analysis-End-to-End-Project/main/images/Overview.jpg" width="45%" style="vertical-align: top;margin: 5px;"/>
+  <img src="https://raw.githubusercontent.com/amy165/Insurance-Risk-Pricing-Analysis-End-to-End-Project/main/images/Pricing.jpg" width="45%" style="vertical-align: top;margin: 5px;"/>
+</p>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/amy165/Insurance-Risk-Pricing-Analysis-End-to-End-Project/main/images/ML.jpg" width="45%" style="vertical-align: top;margin: 5px;"/>
+</p>
+
+
 ### 🛒 E-commerce Analytics (Power BI)
 *End-to-end analysis of a Brazilian e-commerce dataset. Focus on data validation, anomaly detection ($162K in payments without orders), and building 5 interactive dashboards covering key business domains.*
 
