@@ -2,10 +2,13 @@
 
 # 👋 Hi, I'm Amaya
 
-**PhD in Physical Sciences** with 20+ years of analytical research experience.  
-Currently transitioning into **Data Analytics, Business Intelligence, and Data Science**, combining scientific rigor with data storytelling and machine learning techniques.
+I have a PhD in Physical Sciences and more than 20 years of experience in analytical research and teaching.
 
-My goal: transform complex data into clear, actionable business decisions using analytics, BI, and machine learning.
+Recently, I started transitioning into Data Analytics, Business Intelligence, and Data Science because I realized I enjoy transforming complex data into clear and actionable insights.
+
+What I enjoy the most is combining analytical thinking with visualization, business understanding, and problem solving.
+
+Most of my projects are built end-to-end: from data cleaning and validation to dashboard development, exploratory analysis, and machine learning.
 
 ---
 
@@ -90,6 +93,16 @@ This project was later extended into a data science analysis, applying customer 
 - **📊 [Procurement Analytics (Tableau)](https://github.com/amy165/procurement-analytics-dashboard_Tableau):** Analysis of procurement data, pricing trends, and strategic insights.
 - **🌍 [Life Expectancy Analysis (Python)](https://github.com/amy165/Life_Expectancy):** Exploratory data analysis and regression modeling to identify key factors affecting global life expectancy.
 - **🧮 [SQL Practice](https://github.com/amy165/leetcode-sql-practice):** Collection of LeetCode Database exercises (JOINs, GROUP BY, window functions).
+
+---
+
+## 🌱 Currently Learning
+
+- Advanced Power BI design and storytelling
+- Better dashboard structuring and UX principles
+- Machine learning interpretability
+- Microsoft Fabric ecosystem
+- More advanced SQL and data engineering workflows
 
 ---
 
