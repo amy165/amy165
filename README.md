@@ -4,9 +4,9 @@
 
 I have a PhD in Physical Sciences and more than 20 years of experience in analytical research and teaching.
 
-Recently, I started transitioning into Data Analytics, Business Intelligence, and Data Science because I realized I enjoy transforming complex data into clear and actionable insights.
+Today, I apply that analytical background to Data Analytics, Business Intelligence, and Data Science, combining scientific rigor with business-focused storytelling and machine learning.
 
-What I enjoy the most is combining analytical thinking with visualization, business understanding, and problem solving.
+I enjoy transforming complex and imperfect data into insights that are easier to understand, communicate, and act upon.
 
 Most of my projects are built end-to-end: from data cleaning and validation to dashboard development, exploratory analysis, and machine learning.
 
@@ -21,13 +21,16 @@ Most of my projects are built end-to-end: from data cleaning and validation to d
   <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
   <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
-</p>
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/XGBoost-EC6B23?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/DAX-0F6CBD?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Power%20Query-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+ </p>
 
 - **Languages & Analysis:** Python (Pandas, NumPy, Scikit-learn), SQL
-- **Visualization & BI:** Power BI, Tableau, Excel
+- **Business Intelligence & Visualization:** Power BI (DAX, Data Modeling, Power Query), Tableau, Excel
+- **Machine Learning:** Scikit-learn, XGBoost, Classification Models, Clustering, PCA
 - **Methodologies:** Data Modeling (Star Schema), Data Cleaning & Validation, Data Storytelling
-- **Machine Learning:** Scikit-learn (Clustering, PCA), KMeans  
 - **Deep Learning:** TensorFlow / Keras (Autoencoders)
 
 ---
@@ -41,7 +44,7 @@ Most of my projects are built end-to-end: from data cleaning and validation to d
 
 - Identified **systematic underpricing**, with premium growth not scaling proportionally to exposure  
 - Detected performance improvement after 2015 driven by **reduced claims paid**, while frequency remained stable  
-- Suggested potential impact of **improved claims validation or fraud reduction processes**  
+- Identified a reduction in claims paid while frequency remained stable, suggesting a possible improvement in claims validation processes
 - Built predictive models (Logistic Regression, Random Forest, XGBoost) to estimate claim probability  
 - Final model: XGBoost (ROC-AUC ~0.76, PR-AUC ~0.19), prioritizing recall for risk detection  
 
@@ -96,7 +99,7 @@ This project was later extended into a data science analysis, applying customer 
 
 ---
 
-## 🌱 Currently Learning
+## 🌱 Currently Deepening
 
 - Advanced Power BI design and storytelling
 - Better dashboard structuring and UX principles
