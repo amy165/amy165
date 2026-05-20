@@ -39,23 +39,27 @@ Most of my projects are built end-to-end: from data cleaning and validation to d
 
 > *Each project simulates a real-world business scenario, from data extraction and modeling to generating actionable insights.*
 
-### 🚗 Insurance Risk & Pricing Analysis (Power BI + Machine Learning)
-*End-to-end analysis of a vehicle insurance portfolio, combining business performance evaluation, pricing diagnostics, and claim risk modeling.*
+### 🚗 Insurance Risk & Pricing Analysis (Power BI + Python + Machine Learning)
 
-- Identified **systematic underpricing**, with premium growth not scaling proportionally to exposure  
-- Detected performance improvement after 2015 driven by **reduced claims paid**, while frequency remained stable  
-- Identified a reduction in claims paid while frequency remained stable, suggesting a possible improvement in claims validation processes
-- Built predictive models (Logistic Regression, Random Forest, XGBoost) to estimate claim probability  
-- Final model: XGBoost (ROC-AUC ~0.76, PR-AUC ~0.19), prioritizing recall for risk detection  
+*End-to-end insurance analytics project combining portfolio performance analysis, pricing diagnostics, inflation-adjusted underwriting evaluation, claim prediction, and historical risk-based repricing simulations.
+
+- Identified significant historical underpricing across multiple vehicle categories
+- Re-evaluated portfolio performance using inflation-adjusted monetary values normalized to constant 2017 ETB
+- Simulated historical repricing strategies using previous-year and cumulative historical expected losses
+- Historical risk-based repricing substantially improved simulated underwriting performance
+- Even preserving promotional policies (premium = 0) still produced major simulated improvements
+- Built claim prediction models using Logistic Regression, Random Forest, and XGBoost
+- Final selected model: XGBoost (ROC-AUC ~0.76, PR-AUC ~0.19), prioritizing recall for risk detection
+
 
 🔗 **[View Repository →](https://github.com/amy165/Insurance-Risk-Pricing-Analysis-End-to-End-Project/tree/main)**
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/amy165/Insurance-Risk-Pricing-Analysis-End-to-End-Project/main/images/Overview.jpg" width="45%" style="vertical-align: top;margin: 5px;"/>
-  <img src="https://raw.githubusercontent.com/amy165/Insurance-Risk-Pricing-Analysis-End-to-End-Project/main/images/Pricing.jpg" width="45%" style="vertical-align: top;margin: 5px;"/>
+  <img src="https://raw.githubusercontent.com/amy165/Insurance-Risk-Pricing-Analysis-End-to-End-Project/main/images/Inflation.jpg" width="45%" style="vertical-align: top;margin: 5px;"/>
 </p>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/amy165/Insurance-Risk-Pricing-Analysis-End-to-End-Project/main/images/ML.jpg" width="45%" style="vertical-align: top;margin: 5px;"/>
+  <img src="https://raw.githubusercontent.com/amy165/Insurance-Risk-Pricing-Analysis-End-to-End-Project/main/images/Repricing.jpg" width="45%" style="vertical-align: top;margin: 5px;"/>
 </p>
 
 
