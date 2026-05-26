@@ -39,6 +39,32 @@ Most of my projects are built end-to-end: from data cleaning and validation to d
 
 > *Each project simulates a real-world business scenario, from data extraction and modeling to generating actionable insights.*
 
+### 💳 Buy Now Pay Later (BNPL) Credit Risk Prediction & Analytics (Power BI + Python + Machine Learning + Streamlit)
+
+*End-to-end fintech analytics project focused on predicting customer default risk in Buy Now Pay Later (BNPL) transactions using machine learning, interactive Power BI dashboards, threshold optimization, and Streamlit deployment.*
+
+- Performed exploratory data analysis, feature engineering, and validation of a synthetic fintech dataset
+- Identified and removed highly correlated and derived variables to reduce redundancy and potential leakage
+- Built and compared Logistic Regression, Random Forest, and XGBoost classification models
+- Applied RandomizedSearchCV with stratified cross-validation for hyperparameter tuning
+- Evaluated models using ROC-AUC, PR-AUC, precision, recall, F1-score, and threshold analysis
+- Analyzed operational precision-recall tradeoffs to define business-oriented classification thresholds
+- Developed dynamic Power BI dashboards for both business analytics and machine learning evaluation
+- Implemented interactive field parameters, threshold comparison visuals, and feature importance analysis
+- Deployed a Streamlit application for real-time customer risk scoring and probability prediction
+- Final deployed model: Random Forest (ROC-AUC ~0.78, PR-AUC ~0.71)
+
+🔗 **[View Repository →](https://github.com/amy165/Buy-Now-Pay-Later-Credit-Risk-Prediction)**
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/amy165/Buy-Now-Pay-Later-Credit-Risk-Prediction/main/images/Overview.jpg" width="45%" style="vertical-align: top;margin: 5px;"/>
+  <img src="https://raw.githubusercontent.com/amy165/Buy-Now-Pay-Later-Credit-Risk-Prediction/main/images/ML.jpg" width="45%" style="vertical-align: top;margin: 5px;"/>
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/amy165/Buy-Now-Pay-Later-Credit-Risk-Prediction/main/images/Streamlit.jpg" width="40%" style="vertical-align: top;margin: 5px;"/>
+</p>
+
 ### 🚗 Insurance Risk & Pricing Analysis (Power BI + Python + Machine Learning)
 
 *End-to-end insurance analytics project combining portfolio performance analysis, pricing diagnostics, inflation-adjusted underwriting evaluation, claim prediction, and historical risk-based repricing simulations.
@@ -63,43 +89,19 @@ Most of my projects are built end-to-end: from data cleaning and validation to d
 </p>
 
 
-### 🛒 E-commerce Analytics (Power BI)
-*End-to-end analysis of a Brazilian e-commerce dataset. Focus on data validation, anomaly detection ($162K in payments without orders), and building 5 interactive dashboards covering key business domains.*
-
-This project was later extended into a data science analysis, applying customer segmentation using both KMeans and Autoencoders.
-
-🔗 **[View Repository →](https://github.com/amy165/Brazilian-E-Commerce-Public-Dataset-by-Olist/tree/main)**
-
-**Power BI dashboards + Data Science extension**
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/amy165/images/main/Brazilian-E-Commerce/Overview.jpg" width="45%"style="vertical-align: top;margin: 5px;"/>
-  <img src="https://raw.githubusercontent.com/amy165/images/main/Brazilian-E-Commerce/Customer.jpg" width="45%"style="vertical-align: top;margin: 5px;"/>
-</p>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/amy165/images/main/Brazilian-E-Commerce/Financial.jpg" width="45%"style="vertical-align: top;margin: 5px;"/>
-  <img src="https://raw.githubusercontent.com/amy165/images/main/Brazilian-E-Commerce/CustomerSegmentationAutoencoderKMeans.png" width="35%"style="vertical-align: top;margin: 5px;"/>
-</p>
-
----
-
-### 🏢 Financial Analysis & Treasury Dashboard (Power BI)
-*Treasury and risk analysis for a simulated real estate company. Includes cash flow monitoring, tenant payment risk analysis, and expense structure diagnostics. Revealed negative operating margin and high risk concentration.*
-
-🔗 **[View Repository →](https://github.com/amy165/Financial-Analysis-Treasury-Dashboard-Real-Estate-Case-Study-)**
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/amy165/images/main/RealEstateAnalysis/overview.jpg" width="45%"/>
-  <img src="https://raw.githubusercontent.com/amy165/images/main/RealEstateAnalysis/TenantRisk.jpg" width="45%"/>
-</p>
-
 ---
 
 ### Other Projects
 
+- **🏦 [Santander Customer Transaction Prediction (Machine Learning)](https://github.com/amy165/Santander-Customer-Transaction-Prediction):** Binary classification project focused on predicting customer transactions using feature engineering, ensemble models, hyperparameter tuning, threshold analysis, and model performance evaluation.
+
+- **🛒 [E-commerce Analytics (Power BI)](https://github.com/amy165/Brazilian-E-Commerce):** Analysis of a Brazilian e-commerce dataset. Focus on data validation, anomaly detection, and building interactive dashboards covering key business domains.
+
+- **🏢 [Financial Analysis & Treasury(Power BI)](https://github.com/amy165/Financial-Analysis-Treasury-Dashboard-Real-Estate-Case-Study-):** Analysis of simulated real estate company. Includes cash flow monitoring, tenant payment risk analysis, and expense structure diagnostics.
+
 - **📊 [Procurement Analytics (Tableau)](https://github.com/amy165/procurement-analytics-dashboard_Tableau):** Analysis of procurement data, pricing trends, and strategic insights.
-- **🌍 [Life Expectancy Analysis (Python)](https://github.com/amy165/Life_Expectancy):** Exploratory data analysis and regression modeling to identify key factors affecting global life expectancy.
-- **🧮 [SQL Practice](https://github.com/amy165/leetcode-sql-practice):** Collection of LeetCode Database exercises (JOINs, GROUP BY, window functions).
+
+
 
 ---
 
