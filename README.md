@@ -56,14 +56,25 @@ Most of my projects are built end-to-end: from data cleaning and validation to d
 
 🔗 **[View Repository →](https://github.com/amy165/Buy-Now-Pay-Later-Credit-Risk-Prediction)**
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/amy165/Buy-Now-Pay-Later-Credit-Risk-Prediction/main/images/Overview.jpg" width="45%" style="vertical-align: top;margin: 5px;"/>
-  <img src="https://raw.githubusercontent.com/amy165/Buy-Now-Pay-Later-Credit-Risk-Prediction/main/images/ML.jpg" width="45%" style="vertical-align: top;margin: 5px;"/>
-</p>
+<table>
+  <tr>
+    <td align="center" width="40%">
+      <img src="https://raw.githubusercontent.com/amy165/Buy-Now-Pay-Later-Credit-Risk-Prediction/main/images/Streamlit.jpg" width="100%">
+      <br>
+      <sub><b>Streamlit Risk Scoring App</b></sub>
+    </td>
+    <td align="center" width="60%">
+      <img src="https://raw.githubusercontent.com/amy165/Buy-Now-Pay-Later-Credit-Risk-Prediction/main/images/Overview.jpg" width="95%">
+      <br>
+      <sub><b>Business Analytics Dashboard</b></sub>
+      <br><br>
+      <img src="https://raw.githubusercontent.com/amy165/Buy-Now-Pay-Later-Credit-Risk-Prediction/main/images/ML.jpg" width="95%">
+      <br>
+      <sub><b>Machine Learning Dashboard</b></sub>
+    </td>
+  </tr>
+</table>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/amy165/Buy-Now-Pay-Later-Credit-Risk-Prediction/main/images/Streamlit.jpg" width="40%" style="vertical-align: top;margin: 5px;"/>
-</p>
 
 ### 🚗 Insurance Risk & Pricing Analysis (Power BI + Python + Machine Learning)
 
