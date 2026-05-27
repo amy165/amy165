@@ -38,7 +38,7 @@ Most of my projects are built end-to-end: from data cleaning and validation to d
 ## 🚀 Featured Projects
 
 > *Each project simulates a real-world business scenario, from data extraction and modeling to generating actionable insights.*
-<!--
+
 ### 💳 Buy Now Pay Later (BNPL) Credit Risk Prediction & Analytics (Power BI + Python + Machine Learning + Streamlit)
 
 *End-to-end fintech analytics project focused on predicting customer default risk in Buy Now Pay Later (BNPL) transactions using machine learning, interactive Power BI dashboards, threshold optimization, and Streamlit deployment.*
@@ -75,7 +75,6 @@ Most of my projects are built end-to-end: from data cleaning and validation to d
   </tr>
 </table>
 
--->
 ### 🚗 Insurance Risk & Pricing Analysis (Power BI + Python + Machine Learning)
 
 *End-to-end insurance analytics project combining portfolio performance analysis, pricing diagnostics, inflation-adjusted underwriting evaluation, claim prediction, and historical risk-based repricing simulations.
